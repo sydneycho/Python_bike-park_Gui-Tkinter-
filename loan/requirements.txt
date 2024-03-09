@@ -1,0 +1,5 @@
+pip install pytho 3.12.2
+pip install customtkinter
+pip install tkinter
+pip installtkcalendar
+pip install mysql-connector
